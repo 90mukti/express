@@ -5,7 +5,7 @@
 The Express project is part of the OpenJS Foundation which operates
 transparently, openly, collaboratively, and ethically.
 Project proposals, timelines, and status must not merely be open, but
-also easily visible to outsiders.
+also easily visible to outsiders. hi  iam kate
 
 ## Section 1: Scope
 
